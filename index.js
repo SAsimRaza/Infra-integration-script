@@ -112,11 +112,11 @@ getUsername();
     {
       actions: [
         {
-          account: "influencer", // contract account name 
+          account: "influencer", // contract account name
           name: "onboardbrand", // function name
           authorization: [
             {
-              actor: "ocean2",  // EOA
+              actor: "ocean2", // EOA
               permission: "active",
             },
           ],
